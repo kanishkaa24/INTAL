@@ -15,4 +15,4 @@ The maximum limit of Unsigned Long Int in C/C++ is 18446744073709551615, a 20 di
 - Greatest Common Divisor.  
 
 
-Referenced from : ![https://www.crio.do/projects/category/c++-projects] Crio Projects Hub
+Referenced from : https://www.crio.do/projects/category/c++-projects
